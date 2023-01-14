@@ -22,6 +22,8 @@ Top button that apears when the user scroll dowen the pge.
 
 this project teached me a lot ,I'm really thankful for everything I learned whith Udacity.
 
+install all project dependencies with `npm install`
+
 ## Author's name
 
 SHENODA SHEHATA
